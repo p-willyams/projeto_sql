@@ -255,12 +255,19 @@ CALL atualizar_dw();
 
 # Resultado Final
 
-✔ Banco de Produção completo
-✔ Banco DW em modelo estrela
-✔ Dimensões e fato populadas
-✔ Views de integração entre bancos
-✔ Trigger alimentando área de staging
-✔ ETL automatizado via procedure
-✔ CSVs limpos e padronizados
-✔ Estrutura clara, modular e didática
+Banco de Produção completo
+
+Banco DW em modelo estrela
+
+Dimensões e fato populadas
+
+Views de integração entre bancos
+
+Trigger alimentando área de staging
+
+ETL automatizado via procedure
+
+CSVs limpos e padronizados
+
+Estrutura clara, modular e didática
 
