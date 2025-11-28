@@ -39,7 +39,7 @@ projeto_sql/
 
 ---
 
-# 📄 Descrição dos Arquivos
+# Descrição dos Arquivos
 
 ### **/sql/01_producao.sql**
 
@@ -110,7 +110,7 @@ Prontos para importação no PostgreSQL.
 
 ---
 
-# 🗄️ Banco de Produção (OLTP)
+# Banco de Produção (OLTP)
 
 Banco criado em `01_producao.sql`.
 
