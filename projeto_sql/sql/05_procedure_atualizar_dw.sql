@@ -1,4 +1,4 @@
-\c homologacao_dw;
+-- homologacao_dw;
 
 CREATE OR REPLACE PROCEDURE atualizar_dw()
 LANGUAGE plpgsql
@@ -45,3 +45,4 @@ BEGIN
 END $$;
 
 -- CALL atualizar_dw();
+
