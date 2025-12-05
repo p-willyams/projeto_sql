@@ -1,5 +1,4 @@
 CREATE DATABASE producao;
-\c producao;
 
 -- TABELA PRODUTOS
 CREATE TABLE produtos (
@@ -15,7 +14,7 @@ CREATE TABLE usuarios (
     data_cadastro DATE,
     faixa_etaria VARCHAR(50),
     cidade VARCHAR(100),
-    estado VARCHAR(2)
+    estado VARCHAR(100)
 );
 
 

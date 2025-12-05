@@ -8,7 +8,7 @@ CREATE TABLE dim_usuario (
     data_cadastro DATE,
     faixa_etaria VARCHAR(50),
     cidade VARCHAR(100),
-    estado VARCHAR(2)
+    estado VARCHAR(100)
 );
 
 -- Dimensão Produto
