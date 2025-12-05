@@ -1,6 +1,4 @@
 CREATE DATABASE homologacao_dw;
-\c homologacao_dw;
-
 -- Dimensão Usuario
 CREATE TABLE dim_usuario (
     sk_usuario SERIAL PRIMARY KEY,
@@ -28,3 +26,4 @@ CREATE TABLE dim_tempo (
     mes INT,
     dia INT
 );
+
