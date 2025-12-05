@@ -1,4 +1,4 @@
-\c homologacao_dw;
+-- homologacao_dw;
 
 CREATE TABLE fato_vendas (
     sk_fato SERIAL PRIMARY KEY,
@@ -9,3 +9,4 @@ CREATE TABLE fato_vendas (
     valor_compra NUMERIC(10,2),
     forma_pagamento VARCHAR(50)
 );
+
