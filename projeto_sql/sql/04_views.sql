@@ -1,4 +1,4 @@
-\c homologacao_dw;
+-- homologacao_dw;
 
 CREATE EXTENSION IF NOT EXISTS dblink;
 
@@ -46,4 +46,5 @@ FROM dblink(
     data_prevista_entrega DATE,
     data_entrega DATE
 );
+
 
